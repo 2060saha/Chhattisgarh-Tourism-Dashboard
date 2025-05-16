@@ -9,7 +9,6 @@ This project is an interactive Tableau dashboard showcasing major tourist destin
 - `chhattisgarh_tourist_spots_with_visitors.csv` – Main dataset with tourist spots, entry fees, and annual visitor counts from 2010 to 2024.
 
 ## 🖼️ Dashboard Preview
-> *(Include a screenshot named `dashboard_screenshot.png` in your repo and GitHub will show it here)*
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
